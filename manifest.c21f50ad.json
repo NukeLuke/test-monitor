@@ -31,12 +31,12 @@
       "type": "image/png"
     }
   ],
-  "name": "test",
-  "short_name": "test",
+  "name": "monitor-test",
+  "short_name": "monitor-test",
   "orientation": "portrait",
   "display": "standalone",
   "start_url": ".",
-  "description": "test",
+  "description": "monitor-test",
   "background_color": "#333",
   "theme_color": "#333"
 }

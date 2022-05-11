@@ -94,11 +94,42 @@ html {
   background-color: #eee;
 }
 
+.App__page--1yHpX {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+      -ms-flex-direction: column;
+          flex-direction: column;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+}
+.App__page--1yHpX canvas {
+  display: none;
+}
+.App__videos--3epTg {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+}
+.App__videos--3epTg .App__video2--1st8N {
+  display: none;
+}
 .App__buttons--2cZLQ {
   margin-top: 40px;
 }
 .App__buttons--2cZLQ button {
   margin-right: 20px;
   width: 150px;
+}
+.App__imgs--3jvxN {
+  margin-top: 20px;
+  width: 70%;
+}
+.App__imgs--3jvxN .App__img--3qapZ {
+  width: 250px;
+  height: 200px;
 }
 
